@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: anti_copy
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: Anti_Copy
+Implementation-Version: 1.0
+Implementation-Vendor: 
+Implementation-Timestamp: 2024-07-12T18:39:08+0800
+

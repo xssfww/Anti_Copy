@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+[[mods]]
+modId="anti_copy"
+version="1.0.0"
+displayName="改包者亲妈螺旋升天"
+credits="改包者永远不会用的IDEA"
+authors="我是你爹"
+description='''
+牢底，学不会Mixin改你妈的包？笑的我迪克都痛了。
+'''
+[[dependencies.anti_copy]]
+modId="forge"
+mandatory=true
+versionRange="[40,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.anti_copy]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.18.2,1.19)"
+ordering="NONE"
+side="BOTH"
